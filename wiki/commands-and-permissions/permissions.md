@@ -94,6 +94,8 @@ description: null
 | `simpleclans.leader.setrank` | Can set ranks |
 | `simpleclans.leader.settrust` | Can set trust levels for members |
 | `simpleclans.leader.war` | Can start wars |
+| `simpleclans.leader.withdraw-toggle` | Can toggle clan bank withdraw |
+| `simpleclans.leader.deposit-toggle` | Can toggle clan bank deposit |
 | `simpleclans.leader.setbanner` | Can set his clan's banner |
 
 ### Mod Nodes
